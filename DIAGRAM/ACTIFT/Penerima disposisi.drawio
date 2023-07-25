@@ -1,0 +1,130 @@
+<mxfile host="www.draw.io" modified="2023-04-12T12:46:48.442Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.39" etag="Sido_hQ3Gq7NQDmK2yG6" version="21.1.6" type="device">
+  <diagram name="Page-1" id="eZk9P6GRMHOx34P4PCTR">
+    <mxGraphModel dx="1233" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="H1-D4Si2Od4k-F7p7VWs-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="370" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H1-D4Si2Od4k-F7p7VWs-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="H1-D4Si2Od4k-F7p7VWs-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1-D4Si2Od4k-F7p7VWs-3" value="Masukan URL" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="325" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H1-D4Si2Od4k-F7p7VWs-4" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="H1-D4Si2Od4k-F7p7VWs-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1-D4Si2Od4k-F7p7VWs-5" value="Klik Button Login" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="325" y="230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H1-D4Si2Od4k-F7p7VWs-6" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="H1-D4Si2Od4k-F7p7VWs-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1-D4Si2Od4k-F7p7VWs-7" value="Halaman Login" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="325" y="330" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H1-D4Si2Od4k-F7p7VWs-8" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="H1-D4Si2Od4k-F7p7VWs-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1-D4Si2Od4k-F7p7VWs-9" value="Input Email dan Password" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="325" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H1-D4Si2Od4k-F7p7VWs-10" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="H1-D4Si2Od4k-F7p7VWs-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1-D4Si2Od4k-F7p7VWs-11" value="Tampil Halaman Penerima Disposisi" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="325" y="530" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H1-D4Si2Od4k-F7p7VWs-12" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="H1-D4Si2Od4k-F7p7VWs-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1-D4Si2Od4k-F7p7VWs-13" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="150" y="630" width="430" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="H1-D4Si2Od4k-F7p7VWs-17" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="680" as="targetPoint" />
+            <mxPoint x="200" y="640" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1-D4Si2Od4k-F7p7VWs-18" value="Klik Surat Masuk" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H1-D4Si2Od4k-F7p7VWs-20" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="680" as="targetPoint" />
+            <mxPoint x="300" y="640" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1-D4Si2Od4k-F7p7VWs-21" value="Klik Surat Disposisi" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="260" y="680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H1-D4Si2Od4k-F7p7VWs-22" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="H1-D4Si2Od4k-F7p7VWs-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1-D4Si2Od4k-F7p7VWs-23" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="680" as="targetPoint" />
+            <mxPoint x="400" y="640" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1-D4Si2Od4k-F7p7VWs-24" value="Klik Jadwal" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="360" y="680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H1-D4Si2Od4k-F7p7VWs-25" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="H1-D4Si2Od4k-F7p7VWs-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1-D4Si2Od4k-F7p7VWs-26" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="680" as="targetPoint" />
+            <mxPoint x="500" y="640" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1-D4Si2Od4k-F7p7VWs-27" value="Klik Cari Surat" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="460" y="680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H1-D4Si2Od4k-F7p7VWs-28" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1" source="H1-D4Si2Od4k-F7p7VWs-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H1-D4Si2Od4k-F7p7VWs-34" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="285" y="780" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H1-D4Si2Od4k-F7p7VWs-35" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="385" y="780" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H1-D4Si2Od4k-F7p7VWs-36" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="485" y="780" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H1-D4Si2Od4k-F7p7VWs-40" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="184" y="780" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H1-D4Si2Od4k-F7p7VWs-41" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="199.5" y="780" as="targetPoint" />
+            <mxPoint x="199.5" y="720" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

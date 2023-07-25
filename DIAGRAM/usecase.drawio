@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" modified="2023-07-16T15:45:30.153Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5JclH2YDa3ltnTTddMg0" version="21.6.2" type="device">
+  <diagram name="Halaman-1" id="pOcrpM7wWkGhHMc-ta1H">
+    <mxGraphModel dx="285" dy="283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ODHT92lpareKxr0ppBrv-1" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="70" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ODHT92lpareKxr0ppBrv-2" value="Petugas TU" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="320" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ODHT92lpareKxr0ppBrv-7" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="90" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ODHT92lpareKxr0ppBrv-8" value="Tambah Pengguna" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="200" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ODHT92lpareKxr0ppBrv-9" value="Ubah Profile" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="310" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ODHT92lpareKxr0ppBrv-10" value="Pengajuan Surat Keluar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="410" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ODHT92lpareKxr0ppBrv-11" value="Buat Surat Masuk" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="610" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ODHT92lpareKxr0ppBrv-12" value="Acc Pengajuan Surat Keluar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="500" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ODHT92lpareKxr0ppBrv-13" value="Kelola Surat Masuk" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="700" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ODHT92lpareKxr0ppBrv-14" value="Kelola Surat Keluar" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="790" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ODHT92lpareKxr0ppBrv-15" value="Lihat surat" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="890" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ODHT92lpareKxr0ppBrv-16" value="Buat Disposisi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="990" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ODHT92lpareKxr0ppBrv-17" value="Terima Disposisi" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1099" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ODHT92lpareKxr0ppBrv-18" value="Tanda Tangan&lt;br&gt;&amp;nbsp;Elektronik" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1210" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ODHT92lpareKxr0ppBrv-19" value="Logout" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1320" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ODHT92lpareKxr0ppBrv-20" value="Wakasek" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="530" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ODHT92lpareKxr0ppBrv-21" value="Kepsek(Pemimpin)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="430" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ODHT92lpareKxr0ppBrv-22" value="Guru" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="640" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
